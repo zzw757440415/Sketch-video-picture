@@ -13,9 +13,9 @@ Realize the sketch of pictures or videos, as well as the splicing in different d
 
 ## Demo Video
 
-![video](demo\video.gif)
+<img src=".\demo\video.gif" alt="video" style="zoom: 100%;" />
 
-![sketch-video](demo\sketch-video.gif)
+<img src=".\demo\sketch-video.gif" alt="sketch-video" style="zoom: 100%;" />
 
 
 
