@@ -11,6 +11,14 @@ Realize the sketch of pictures or videos, as well as the splicing in different d
 
 
 
+## Demo Video
+
+![video](demo\video.gif)
+
+![sketch-video](demo\sketch-video.gif)
+
+
+
 ## Demo Pictures
 
 <img src=".\demo\sketch-light-rail.jpg" alt="sketch-light-rail" style="zoom: 25%;" />
@@ -21,8 +29,3 @@ Realize the sketch of pictures or videos, as well as the splicing in different d
 
 
 
-## Demo Video
-
-![video](.\demo\video.gif)
-
-![sketch-video](.\demo\sketch-video.gif)
